@@ -6,5 +6,4 @@ public class AppMain {
 		System.out.println("welcome...");
 		System.out.println("to java");
 	}
-
 }
